@@ -82,12 +82,14 @@ The company has requested for a more sophisticated inventory management system t
 
 **Important to note:**
 * No database will be used to persistently store application data
-* Had to use JavaFX
-* Had to include the UML class diagram and all of the classes and members
+* We had to use JavaFX
+* We had to include the UML class diagram and all of the classes and members
 
 ---
 
 ## Video Demonstration of the Inventory Management Application
+
+[NEED TO UPDATE]
 
 ---
 
@@ -127,8 +129,11 @@ You can refer to the folder "C482-Photos" for more photos of the inventory manag
 
 ## Software Packages
 
+*Note: Below are the versions of the software that were used*
+
 * Java SDK v18
 * JavaFX SDK v19
+* IntelliJ IDEA Community v2022 
 
 ---
 
