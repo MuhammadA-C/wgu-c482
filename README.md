@@ -18,6 +18,8 @@ the organization has been using spreadsheets to manually manage their inventory 
 
 The company has requested for a more sophisticated inventory management system to be developed.
 
+*Note: This project prompt isn't based on a specific real company, but a realistic scenario*
+
 
 ---
 
