@@ -147,12 +147,24 @@ and if an input field is missing a value then a notification will pop up notifyi
 
 ---
 
+## Lessons Learnt
+
+One of the takeaways that I got after completing this project was that the current version of the application does not have dynamic UI that
+properly scales based on the users screen size. Currently, the application's UI is set at a fixed size.
+
+Technically, creating dynamic UI was not one of the project requirements, but if I were to go back then I would have looked into how to add this using 
+JavaFX.
+
+---
+
 ## Future Improvements
 
 If I were not restricted due to this being a school project and the project requirements, then I would have:
 * Removed unused UML Classes
 * Redesign the GUI
 * Persistently store application data by adding a database
+* Dynamic UI- UI scalates based on device screen size
+* Localization of Text
 
 ---
 
