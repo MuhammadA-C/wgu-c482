@@ -21,6 +21,12 @@ The company has requested for a more sophisticated inventory management system t
 *Note: This project prompt isn't based on a specific real company, but a realistic scenario*
 
 
+**Note:**
+* A GUI mockup of the user interface design for the inventory management software was provided; *and we were supposed to follow it*
+* A class diagram was provided to help assist
+* A set of guidelines for the business requirements of this inventory management application were provided
+
+
 ---
 
 ## Project Requirements
@@ -38,7 +44,6 @@ The company has requested for a more sophisticated inventory management system t
 
 
 ---
-Tools: Java and JavaFX
 
 The project for C482 Software 1 was to create an Inventory Management Application using Java and JavaFX + Scene Builder for the GUI. Overview of the applications functionality:
 - The user can create Part and Product objects
