@@ -84,7 +84,21 @@ The company has requested for a more sophisticated inventory management system t
 
 ## GUI Photos of Inventory Management Application
 
-![] (/C482-Photos/c482-main-form-no-data.png)
+**Main Form with no data for the parts or Product tables**
+
+![Screenshot of the Main Form with no data in the parts and product table](/C482-Photos/c482-main-form-no-data.png)
+
+**Main Form with data for the parts or Product tables**
+
+![Screenshot of the Main Form with data in the parts and product table](/C482-Photos/c482-main-form-with-data.png)
+
+**Main Form, specifically showcasing the search feature that highlights a match**
+
+![Screenshot of the Main Form, specifically showcasing the search feature that highlists a match](/C482-Photos/c482-main-menu-search.png)
+
+**Main Form, specifically showcasing the search feature that filters the table data when multiple matches are found**
+
+![Screenshot of the Main Form, specifically showcasing the search feature that filters when multiple matches are found](/C482-Photos/c482-main-menu-search-filter.png)
 
 ---
 
