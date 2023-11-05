@@ -105,7 +105,7 @@ The company has requested for a more sophisticated inventory management system t
 
 **Main Form, specifically showcasing the search feature that highlights a match**
 
-![Screenshot of the Main Form, specifically showcasing the search feature that highlists a match](/C482-Photos/c482-main-menu-search.png)
+![Screenshot of the Main Form, specifically showcasing the search feature that highlights a match](/C482-Photos/c482-main-menu-search.png)
 
 **Main Form, specifically showcasing the search feature that filters the table data when multiple matches are found**
 
@@ -117,7 +117,7 @@ The company has requested for a more sophisticated inventory management system t
 
 **Missing Input Fields Notification**
 
-![Screenshot of the missing input fields notification when the user tries to save when there are input fields not field out](/C482-Photos/c482-missing-input-fields.png)
+![Screenshot of the missing input fields notification when the user tries to save when there are input fields not filled out](/C482-Photos/c482-missing-input-fields.png)
 
 ---
 
