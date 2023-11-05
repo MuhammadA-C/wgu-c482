@@ -84,4 +84,5 @@ The company has requested for a more sophisticated inventory management system t
 * Programming Language: Java
 * GUI/UI: JavaFX, FXML, Scene Builder
 * Version Control: Git & GitHub
-* MVC Pattern
+* Model-View-Controller (MVC) Pattern
+* Object-Oriented Programming (OOP)
