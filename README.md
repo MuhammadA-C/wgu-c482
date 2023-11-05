@@ -13,6 +13,12 @@ WGU C482 Software 1 Project
 
 # Overview
 
+**Project Prompt:** The project prompt was for a small manufacturing organization that has outgrown their inventory management system. Up to this point, 
+the organization has been using spreadsheets to manually manage their inventory (adding inventory, deleting inventory, etc...), and recording other data on paper. 
+
+The company has requested for a more sophisticated inventory management system to be developed.
+
+
 ---
 
 ## Project Requirements
