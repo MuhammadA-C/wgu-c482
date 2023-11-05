@@ -80,12 +80,10 @@ The company has requested for a more sophisticated inventory management system t
 
 ## Tools Used
 
-* Java
-* JavaFX
-* FXML
-* Scene Builder
+* Programming Language: Java
+* GUI/UI: JavaFX, FXML, Scene Builder
 * Version Control: Git & GitHub
-
+* MVC Pattern
 
 ---
 
