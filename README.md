@@ -82,6 +82,12 @@ The company has requested for a more sophisticated inventory management system t
 
 ---
 
+## GUI Photos of Inventory Management Application
+
+![] (/C482-Photos/c482-main-form-no-data.png)
+
+---
+
 ## Software Packages
 
 * Java SDK v18
