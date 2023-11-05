@@ -187,6 +187,6 @@ If I were not restricted due to this being a school project and the project requ
 
 *Note: Below are the versions of the software that were used*
 
-* Java SDK v18
+* Java JDK v18
 * JavaFX SDK v19
 * IntelliJ IDEA Community v2022 
