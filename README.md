@@ -105,6 +105,14 @@ The company has requested for a more sophisticated inventory management system t
 
 ![Screenshot of the Main Form, specifically showcasing the search feature that filters when multiple matches are found](/C482-Photos/c482-main-menu-search-filter.png)
 
+**Cancel Confirmation**
+
+![Screenshot of the cancel confirmation message when the user tries to cancel in the add/or modify form when there is data in the input fields](/C482-Photos/c482-cancel-confirmation.png)
+
+**Missing Input Fields Notification**
+
+![Screenshot of the missing input fields notification when the user tries to save when there are input fields not field out](/C482-Photos/c482-missing-input-fields.png)
+
 ---
 
 ## Software Packages
