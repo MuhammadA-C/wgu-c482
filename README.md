@@ -35,7 +35,11 @@ The company has requested for a more sophisticated inventory management system t
 
 * Javadoc comments for code
 * Map the classes and members provided from the UML diagram and do not alter them
-* Code should demonstrate inheritance, abstraction & concrete classes, instance & static variables, instance & static methods
+* Code should demonstrate:
+  * inheritance
+  * abstraction & concrete classes
+  * instance & static variables
+  * instance & static methods
 * Exit button to close the application
 * Code for input validation & logical error checking
   * User cannot delete a product if it has parts associated to it
