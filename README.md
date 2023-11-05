@@ -41,10 +41,12 @@ The company has requested for a more sophisticated inventory management system t
   * instance & static variables
   * instance & static methods
 * Exit button to close the application
+
+**Input Validation & Error Handling**
 * Code for input validation & logical error checking
-  * User cannot delete a product if it has parts associated to it
-  * Delete and Remove actions require the user to be notified and confirm said action
-  * Application does not crash when the user inputs the incorrect data type; instead error messages should be generated
+* User cannot delete a product if it has parts associated to it
+* Delete and Remove actions require the user to be notified and confirm said action
+* Application does not crash when the user inputs the incorrect data type; instead error messages should be generated
 
 **User Interface**
 * Main Form
