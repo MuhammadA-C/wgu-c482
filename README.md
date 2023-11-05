@@ -2,10 +2,10 @@
 
 ---
 
-University: Western Governors University (WGU)
-Degree: Bachelor of Science in Software Development
-Class: C482 Software 1
-Date: 05/05/2023
+* University: Western Governors University (WGU)
+* Degree: Bachelor of Science in Software Development
+* Class: C482 Software 1
+* Date: 05/05/2023
 
 ---
 
