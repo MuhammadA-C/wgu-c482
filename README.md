@@ -22,6 +22,12 @@ WGU C482 Software 1 Project
 
 ## Tools Used
 
+* Java
+* JavaFX
+* FXML
+* Scene Builder
+* Version Control: Git & GitHub
+
 
 ---
 Tools: Java and JavaFX
