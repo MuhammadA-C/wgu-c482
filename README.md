@@ -121,9 +121,7 @@ The company has requested for a more sophisticated inventory management system t
 
 ---
 
-**Note**
-
-You can refer to the folder "C482-Photos" for more photos of the inventory management application.
+***Note: You can refer to the folder "C482-Photos" for more photos of the inventory management application***
 
 ---
 
