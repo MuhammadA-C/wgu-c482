@@ -128,7 +128,7 @@ The company has requested for a more sophisticated inventory management system t
 ## Tools Used
 
 * Programming Language: Java
-* GUI/UI: JavaFX, FXML, Scene Builder
+* GUI: JavaFX, FXML, Scene Builder
 * Version Control: Git & GitHub
 * Object-Oriented Programming (OOP)
 * Model-View-Controller (MVC) Pattern
