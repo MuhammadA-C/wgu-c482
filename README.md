@@ -173,7 +173,7 @@ If I were not restricted due to this being a school project and the project requ
 
 ---
 
-## Tools Used
+## Tools/Skills Used
 
 * Programming Language: Java
 * GUI: JavaFX, FXML, Scene Builder
