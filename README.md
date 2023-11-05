@@ -127,16 +127,6 @@ You can refer to the folder "C482-Photos" for more photos of the inventory manag
 
 ---
 
-## Software Packages
-
-*Note: Below are the versions of the software that were used*
-
-* Java SDK v18
-* JavaFX SDK v19
-* IntelliJ IDEA Community v2022 
-
----
-
 ## Tools Used
 
 * Programming Language: Java
@@ -144,3 +134,13 @@ You can refer to the folder "C482-Photos" for more photos of the inventory manag
 * Version Control: Git & GitHub
 * Object-Oriented Programming (OOP)
 * Model-View-Controller (MVC) Pattern
+
+---
+
+## Software Packages
+
+*Note: Below are the versions of the software that were used*
+
+* Java SDK v18
+* JavaFX SDK v19
+* IntelliJ IDEA Community v2022 
