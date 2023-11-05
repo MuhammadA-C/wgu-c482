@@ -75,6 +75,8 @@ The company has requested for a more sophisticated inventory management system t
 * User can input fields for product name, inventory/or stock level, price, and maximum and minimum inventory
 * User can search for parts via a parts table to add parts to the product
 
+---
+
 **Important to note:**
 * No database will be used to persistently store user data
 * Had to use JavaFX
