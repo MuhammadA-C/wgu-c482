@@ -87,6 +87,10 @@ The company has requested for a more sophisticated inventory management system t
 
 ---
 
+## Video Demonstration of the Inventory Management Application
+
+---
+
 ## Photos of the GUI the Inventory Management Application
 
 **Main Form with no data for the parts or Product tables**
