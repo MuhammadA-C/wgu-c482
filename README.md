@@ -93,7 +93,7 @@ The company has requested for a more sophisticated inventory management system t
 Below are links to YouTube Videos demonstrating the application:
 * [Add Part Form Demonstration](https://youtu.be/4X_sgJxl5Ig?si=yhrQC2O1PAllF1xU)
 * [Add Product Form Demonstration](https://youtu.be/S_LpMgYv1Yc)
-
+* [Search Functionality Demonstration](https://youtu.be/fIUasGbCcF0)
 
 
 ---
