@@ -80,6 +80,7 @@ The company has requested for a more sophisticated inventory management system t
 **Important to note:**
 * No database will be used to persistently store application data
 * Had to use JavaFX
+* Had to include the UML class diagram and all of the classes and members
 
 ---
 
