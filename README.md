@@ -8,6 +8,7 @@ WGU C482 Software 1 Project
 * Degree: Bachelor of Science in Software Development
 * Class: C482 Software 1
 * Date: 05/05/2023
+* Project Type: Individual Project
 
 ---
 
