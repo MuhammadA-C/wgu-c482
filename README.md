@@ -95,8 +95,7 @@ Below are links to YouTube Videos demonstrating the application:
 * [Add Product Form Demonstration](https://youtu.be/S_LpMgYv1Yc)
 * [Search Functionality Demonstration](https://youtu.be/fIUasGbCcF0)
 * [Modify Product Demonstration](https://youtu.be/K0Ekt8t9CqM)
-
-
+* [Deleting Product & Exit Button Demonstration](https://youtu.be/auESpQpnmw0)
 
 ---
 
