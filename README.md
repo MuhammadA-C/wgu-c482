@@ -73,6 +73,11 @@ The company has requested for a more sophisticated inventory management system t
 * User can input fields for product name, inventory/or stock level, price, and maximum and minimum inventory
 * User can search for parts via a parts table to add parts to the product
 
+**Searching for Parts or Products**
+* Single Search Result: If there is only a single match for the searched value, the table will highlight the match
+* Multiple Search Results: If there is more than one match for the searched value, the table will filter to display all of the matches
+* No Search Results: If there are no search results for the searched value, the user will be notified
+
 ---
 
 **Important to note:**
