@@ -58,7 +58,7 @@ The company has requested for a more sophisticated inventory management system t
 * Modify Product Form
 
 **Add Forms**
-* The ID field is auto generated a unique ID
+* The ID field auto generates a unique ID
 * User is redirected to the Main Form after saving/or canceling
 
 **Modify Forms**
