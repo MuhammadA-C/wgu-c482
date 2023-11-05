@@ -99,7 +99,7 @@ Below are links to YouTube Videos demonstrating the application:
 
 ---
 
-## Photos of the GUI the Inventory Management Application
+## Photos of the Inventory Management Application GUI
 
 **Main Form with no data for the parts or Product tables**
 
