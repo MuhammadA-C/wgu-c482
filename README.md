@@ -17,7 +17,7 @@ WGU C482 Software 1 Project
 This project was created as a class assignment for WGU, C482. This CRUD application was meant to be created for a hypothetical company that needs to be able to manage their inventory.
 
 
-**Project Prompt:** The project prompt was for a small manufacturing organization that has outgrown their inventory management system. Up to this point, 
+**Project Prompt:** A small manufacturing organization that has outgrown their inventory management system. Up to this point, 
 the organization has been using spreadsheets to manually manage their inventory (adding inventory, deleting inventory, etc...), and recording other data on paper. 
 
 The company has requested for a more sophisticated inventory management system to be developed.
