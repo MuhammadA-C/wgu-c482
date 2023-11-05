@@ -82,6 +82,13 @@ The company has requested for a more sophisticated inventory management system t
 
 ---
 
+## Software Packages
+
+* Java SDK v18
+* JavaFX SDK v19
+
+---
+
 ## Tools Used
 
 * Programming Language: Java
