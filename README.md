@@ -1,11 +1,19 @@
 # WGU-C482-Project
-WGU Bachelor of Science in Software Development
 
+---
+
+University: Western Governors University (WGU)
+Degree: Bachelor of Science in Software Development
 Class: C482 Software 1
-
-Tools: Java and JavaFX
-
 Date: 05/05/2023
+
+---
+
+# Overview
+
+
+---
+Tools: Java and JavaFX
 
 The project for C482 Software 1 was to create an Inventory Management Application using Java and JavaFX + Scene Builder for the GUI. Overview of the applications functionality:
 - The user can create Part and Product objects
