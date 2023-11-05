@@ -42,11 +42,13 @@ The company has requested for a more sophisticated inventory management system t
   * instance & static methods
 * Exit button to close the application
 
+
 **Input Validation & Error Handling**
 * Code for input validation & logical error checking
 * User cannot delete a product if it has parts associated to it
 * Delete and Remove actions require the user to be notified and confirm said action
 * Application does not crash when the user inputs the incorrect data type; instead error messages should be generated
+
 
 **User Interface**
 * Main Form
@@ -55,6 +57,22 @@ The company has requested for a more sophisticated inventory management system t
 * Add Product Form
 * Modify Product Form
 
+**Add Forms**
+* The ID field is auto generated a unique ID
+* User is redirected to the Main Form after saving/or canceling
+
+**Modify Forms**
+* Input fields should auto populate with data
+* User is redirected to the Main Form after saving/or canceling
+
+**Add/Modify Part Form**
+* User can input fields for part name, inventory/or stock level, price, maximum and minmum invenotry, and company name or machine id
+  * *Note: Machine ID is for In-House parts and Company Name is for Outsourced parts*
+* User can switch from In-House parts to Outsourced parts, and vice-versa
+
+**Add/Modify Product Form**
+* User can input fields for product name, inventory/or stock level, price, and maximum and minimum inventory
+* User can search for parts via a parts table to add parts to the product
 
 ---
 
