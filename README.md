@@ -78,7 +78,7 @@ The company has requested for a more sophisticated inventory management system t
 ---
 
 **Important to note:**
-* No database will be used to persistently store user data
+* No database will be used to persistently store application data
 * Had to use JavaFX
 
 ---
