@@ -33,6 +33,7 @@ The company has requested for a more sophisticated inventory management system t
 
 ## Project Requirements
 
+* User can add, update, and delete parts or products
 * Javadoc comments for code
 * Map the classes and members provided from the UML diagram and do not alter them
 * Code should demonstrate:
