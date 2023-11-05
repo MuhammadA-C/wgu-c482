@@ -125,6 +125,36 @@ The company has requested for a more sophisticated inventory management system t
 
 ---
 
+## Extra Features
+
+In this section I will be covering the extra features that I had added to the project which were not explicitly specified.
+
+1. Notification to notify the user to select an item to delete if they had not
+2. Red outline around input fields that are missing values
+
+---
+
+**Notification to notify the user to select an item to delete if they had not**
+
+Added code to check for when the user clicks the delete button on the Main Form prior to selecting an item.
+When the user does this a notification pops up informing the user to select an item prior to clicking the delete button.
+
+**Red outline around input fields that are missing values**
+
+Added code to check for when the user clicks the save button on the Add/or Modify Forms to ensure that all input fields are field out,
+and if an input field is missing a value then a notification will pop up notifying them and the empty input field will be highlighted in red.
+
+---
+
+## Future Improvements
+
+If I were not restricted due to this being a school project and the project requirements, then I would have:
+* Removed unused UML Classes
+* Redesign the GUI
+* Persistently store application data by adding a database
+
+---
+
 ## Tools Used
 
 * Programming Language: Java
