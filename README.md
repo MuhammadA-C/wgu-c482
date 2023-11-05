@@ -1,6 +1,6 @@
 # WGU-C482-Project
 
-WGU C482 Software 1 Project
+WGU C482 Software 1 - Inventory Management Application
 
 ---
 
@@ -14,7 +14,7 @@ WGU C482 Software 1 Project
 
 # Overview
 
-This project was created as a class assignment for WGU, C482. This CRUD application was meant to be created for a hypothetical company that needs to be able to manage their inventory.
+This project was created as a class assignment for WGU, C482. This CRUD Inventory Management Application was meant to be created for a hypothetical company that needs to be able to manage their inventory.
 
 
 **Project Prompt:** A small manufacturing organization that has outgrown their inventory management system. Up to this point, 
