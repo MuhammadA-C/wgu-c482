@@ -91,7 +91,7 @@ The company has requested for a more sophisticated inventory management system t
 ## Video Demonstration of the Inventory Management Application
 
 Below are links to YouTube Videos demonstrating the application:
-* ![Add Part Form Demonstration](https://youtu.be/4X_sgJxl5Ig?si=yhrQC2O1PAllF1xU)
+* [Add Part Form Demonstration](https://youtu.be/4X_sgJxl5Ig?si=yhrQC2O1PAllF1xU)
 
 
 ---
