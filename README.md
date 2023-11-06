@@ -172,7 +172,7 @@ If I were not restricted due to this being a school project and the project requ
 * Removed unused UML Classes
 * Redesign the GUI
 * Persistently store application data by adding a database
-* Dynamic UI- UI scalates based on device screen size
+* Dynamic UI- UI scales based on device screen size
 * Localization of Text
 
 ---
