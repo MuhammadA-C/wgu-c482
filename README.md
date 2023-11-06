@@ -125,6 +125,10 @@ Below are links to YouTube Videos demonstrating the application:
 
 ![Screenshot of the missing input fields notification when the user tries to save when there are input fields not filled out](/C482-Photos/c482-missing-input-fields.png)
 
+**Error message when the user inputs the incorrect data type, in this case when a string is inputted in a field that is for integers**
+
+![Screenshot showing the error message when the user inputs the incorrect data type in a field](/C482-Photos/c482-input-validation.png)
+
 ---
 
 ***Note: You can refer to the folder "C482-Photos" for more photos of the inventory management application***
