@@ -161,8 +161,8 @@ and if an input field is missing a value then a notification will pop up notifyi
 One of the takeaways that I got after completing this project was that the current version of the application does not have dynamic UI that
 properly scales based on the users screen size. Currently, the application's UI is set at a fixed size.
 
-Technically, creating dynamic UI was not one of the project requirements, but if I were to go back then I would have looked into how to add this using 
-JavaFX.
+Technically, creating dynamic UI that scales based on device size was not one of the project requirements, but if I were to go back then I would look into how to add this using 
+Java & JavaFX.
 
 ---
 
