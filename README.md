@@ -1,4 +1,4 @@
-# WGU-C482-Project
+# WGU-C482-Inventory Management Application
 
 WGU C482 Software 1 - Inventory Management Application
 
